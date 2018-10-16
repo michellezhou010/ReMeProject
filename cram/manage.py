@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import os
 import sys
-
+print sys.path
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "cram.settings")
 

@@ -1,13 +1,4 @@
-# CRAM - Google DevFest '16
-***Automated modelling for course recommendations***
 
-### Team members
-* [Abhinav Agrawal](https://github.com/abhiagwl)
-* [Karttikeya Mangalam](https://github.com/karttikeya)
-* [Shivansh Rai](https://github.com/shivrai)
-
-## The Idea
-![C.R.A.M](./cram.jpg)
 
 ## Dependencies
 * [python3](https://www.python.org/download/releases/3.0/)
