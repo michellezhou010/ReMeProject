@@ -1,0 +1,5 @@
+superlists/db.sqlite3
+*.pyc
+superlists/__pycache__/
+superlists/lists/output.csv
+superlists/output.csv
